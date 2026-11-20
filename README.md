@@ -1,3 +1,7 @@
+[![Token Radar bounty](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![Rank](https://make.fun/badge/token-radar-01/yanrane/Token-Radar-Entry/rank.svg)](https://make.fun/bounty/token-radar-01)
+[![Reward](https://make.fun/badge/token-radar-01/yanrane/Token-Radar-Entry/reward.svg)](https://make.fun/bounty/token-radar-01)
+
 # Token Radar
 
 A market-priced board of 200 pre-token protocols, ranked by what a token launch would be worth.
